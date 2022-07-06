@@ -1,13 +1,14 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ipsitamishra16893&label=Profile%20views&color=0e75b6&style=flat" alt="ipsitamishra16893" /> </p>
+### Hello World .. !!
 
-- 🔭 I’m currently working on **information security**
+- 🔭 I’m currently working on information security 
+- 🌱 I’m currently learning a bunch of stuff 
+- 😄 Pronouns: She / Her 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ipsitamishra16893&show_icons=true&locale=en" alt="ipsitamishra16893" /></p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ipsitamishra16893)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ipsitamishra16893/)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ipsitamishra16893&" alt="ipsitamishra16893" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ipsitamishra16893&show_icons=true&count_private=true)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ipsitamishra16893" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ipsitamishra16893" height="30" width="40" /></a>
-</p>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ipsitamishra16893)  
+
+![Profile views](https://gpvc.arturio.dev/ipsitamishra16893)  
